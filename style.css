@@ -7,14 +7,14 @@ margin-bottom: 100px;
 }
 
 header {
- border: solid 2px #ff0000;
+ border: solid 2px #FF2C2C;
  font-size: 32px;
  padding: 10px;
  color: #ffffff;
 }
 
 .chamada {
- background-color: #fd0c09; /* cor escolhida */
+ background-color: #FF7081 /* cor escolhida */
  padding-bottom: 80px;
  padding-top: 80px;
  display: flex;
